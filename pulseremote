@@ -1,0 +1,37 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>/home/scm1hewf/KiCad projects/Fronius remote/pulseremote.sch</h1>
+    <p>Tue 20 Mar 2018 16:06:23 GMT</p>
+    <p>Eeschema 4.0.7-e2-6376~58~ubuntu14.04.1</p>
+    <p><b>Component Count:</b>27</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>C1</td><td>1</td><td>1n 3kv</td><td>device:C</td><td>Capacitors_ThroughHole:C_Disc_D10.0mm_W2.5mm_P5.00mm</td><td>Unpolarized capacitor</td><td></td></tr>
+    <tr><td>C2</td><td>1</td><td>2n2 3kv</td><td>device:C</td><td>Capacitors_ThroughHole:C_Disc_D10.0mm_W2.5mm_P5.00mm</td><td>Unpolarized capacitor</td><td></td></tr>
+    <tr><td>C3</td><td>1</td><td>100u 16v</td><td>device:CP</td><td>Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Hand</td><td>Polarised capacitor</td><td></td></tr>
+    <tr><td>C4</td><td>1</td><td>100n 63v</td><td>device:C</td><td>Capacitors_SMD:C_1206_HandSoldering</td><td>Unpolarized capacitor</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>Amphenol A</td><td>conn:Conn_01x10</td><td>Connector_JST:JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical</td><td>Generic connector, single row, 01x10</td><td></td></tr>
+    <tr><td>J2</td><td>1</td><td>Amphenol B</td><td>conn:Conn_01x05</td><td>Connector_JST:JST_XH_B05B-XH-A_1x05_P2.50mm_Vertical</td><td>Generic connector, single row, 01x05</td><td></td></tr>
+    <tr><td>J3</td><td>1</td><td>Pulse Amp</td><td>conn:Conn_01x03</td><td>Connector_JST:JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical</td><td>Generic connector, single row, 01x03</td><td></td></tr>
+    <tr><td>J4</td><td>1</td><td>Base Amp</td><td>conn:Conn_01x03</td><td>Connector_JST:JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical</td><td>Generic connector, single row, 01x03</td><td></td></tr>
+    <tr><td>J5</td><td>1</td><td>Pulse freq.</td><td>conn:Conn_01x03</td><td>Connector_JST:JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical</td><td>Generic connector, single row, 01x03</td><td></td></tr>
+    <tr><td>J6</td><td>1</td><td>Duty cycle</td><td>conn:Conn_01x03</td><td>Connector_JST:JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical</td><td>Generic connector, single row, 01x03</td><td></td></tr>
+    <tr><td>J7</td><td>1</td><td>Pulse select SW</td><td>conn:Conn_01x06</td><td>Connector_JST:JST_XH_B06B-XH-A_1x06_P2.50mm_Vertical</td><td>Generic connector, single row, 01x06</td><td></td></tr>
+    <tr><td>J8</td><td>1</td><td>Chassis GND</td><td>conn:Conn_01x01</td><td>Wire_Pads:SolderWirePad_single_2-5mmDrill</td><td>Generic connector, single row, 01x01</td><td></td></tr>
+    <tr><td>R1, R5, R12, R13</td><td>4</td><td>22k1</td><td>device:R</td><td>Resistors_SMD:R_1206_HandSoldering</td><td>Resistor</td><td></td></tr>
+    <tr><td>R2, R6, R11, R14</td><td>4</td><td>1k8</td><td>device:R</td><td>Resistors_SMD:R_1206_HandSoldering</td><td>Resistor</td><td></td></tr>
+    <tr><td>R3, R8</td><td>2</td><td>10k</td><td>device:R</td><td>Resistors_SMD:R_1206_HandSoldering</td><td>Resistor</td><td></td></tr>
+    <tr><td>R4, R9</td><td>2</td><td>2k74</td><td>device:R</td><td>Resistors_SMD:R_1206_HandSoldering</td><td>Resistor</td><td></td></tr>
+    <tr><td>R7, R15</td><td>2</td><td>17k4</td><td>device:R</td><td>Resistors_SMD:R_1206_HandSoldering</td><td>Resistor</td><td></td></tr>
+    <tr><td>R10</td><td>1</td><td>24k</td><td>device:R</td><td>Resistors_SMD:R_1206_HandSoldering</td><td>Resistor</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
